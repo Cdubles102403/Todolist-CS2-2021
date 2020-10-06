@@ -2,3 +2,21 @@ body {
     background-color: navy;
     color: white;
 }
+button{
+    border-radius: 20%;
+    background: blue;
+    color: white;
+    border: 1px solid blue;
+    font-size:large;
+}
+input{
+    font-size: large;
+}
+.doneButton{
+    border-radius: 20%;
+    background: red;
+    color: white;
+    border: 1px solid blue;
+    font-size:large;
+
+}
